@@ -56,11 +56,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Debmalya017Das/Debmalya017Das/output/snake.svg" alt="Snake animation" />
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Debmalya017Das/Debmalya017Das/output/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Debmalya017Das/Debmalya017Das/output/snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Debmalya017Das/Debmalya017Das/output/snake.svg"/>
-</picture>
+
 
 ###
 
