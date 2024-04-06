@@ -5,6 +5,7 @@
 
 ### <div align="center">I'm Debmalya, a  developer 👨‍💻 and coder from India/🚀</div>  
   
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Debmalya017Das&theme=onedark)"><img src="https://github-profile-trophy.vercel.app/?username=Debmalya017Das" alt="Debmalya017Das" /></a> </p>
 
 - 🌱 I’m currently learning Web Technologies and building projects.  
   
