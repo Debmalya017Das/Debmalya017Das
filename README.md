@@ -1,16 +1,14 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Debmalya, a  developer 👨‍💻 and coder from India/🚀</div>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Debmalya017Das&label=Profile%20views&color=0e75b6&style=flat" alt="Debmalya017Das" /> </p>
   
 <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Debmalya017Das&theme=onedark)"><img src="https://github-profile-trophy.vercel.app/?username=Debmalya017Das" alt="Debmalya017Das" /></a> </p>
 
 - 🌱 I’m currently learning Web Technologies and building projects.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to **Web development ,Competitive Programming.**
   
 
 <br/>  
@@ -77,29 +75,24 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Debmalya017Das&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debmalya017Das&show_icons=true&locale=en&layout=compact" alt="Debmalya017Das" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debmalya017Das&show_icons=true&locale=en" alt="Debmalya017Da" /></p>  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debmalya017Das&" alt="Debmalya017Da" /></p>
 <br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+ 
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Debmalya017Das&&style=flat-square" align="center" />
-</div>  
+
   
 
 <br/>  
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
