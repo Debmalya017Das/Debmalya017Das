@@ -1,14 +1,15 @@
 
 
-### <div align="center">I'm Debmalya Das, a  developer 👨‍💻 and coder from India/🚀</div>  
+<h1 align="center">Hi 👋, I'm Debmalya </h1>
+<h3 align="center">A passionate developer exploring technologies everyday</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Debmalya017Das&label=Profile%20views&color=0e75b6&style=flat" alt="Debmalya017Das" /> </p>
   
 <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Debmalya017Das&theme=onedark)"><img src="https://github-profile-trophy.vercel.app/?username=Debmalya017Das" alt="Debmalya017Das" /></a> </p>
 
-- 🌱 I’m currently learning Web Technologies and building projects.  
+- 🌱 I’m currently exploring Web Technologies and building projects.  
   
 
-- ❓ Ask me about anything related to **Web development ,Competitive Programming.**
+- ❓ Ask me about anything related to **React, Node, Express, OOPS, OS, Machine Learning**
   
 
 <br/>  
