@@ -73,7 +73,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="deb.das.raja017@gmail.com" target="_blank">
+<a :href="mailto:deb.das.raja017@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/debmalya-das-b1b168247/" target="_blank">
