@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer exploring technologies everyday</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Debmalya017Das&label=Profile%20views&color=0e75b6&style=flat" alt="Debmalya017Das" /> </p>
   
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Debmalya017Das&theme=onedark)"><img src="https://github-profile-trophy.vercel.app/?username=eDebmalya017Das" alt="das" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Debmalya017Das&theme=onedark)"><img src="https://github-profile-trophy.vercel.app/?username=eDebmalya017Das" alt="Debmalya017Das" /></a> </p>
 
 - 🌱 I’m currently exploring Web Technologies and building projects.  
   
