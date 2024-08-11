@@ -88,9 +88,10 @@
 ## Github Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debmalya017das&show_icons=true&locale=en&layout=compact" alt="debmalya017das" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debmalya017Das&show_icons=true&locale=en" alt="Debmalya017Das" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debmalya017das&show_icons=true&locale=en" alt="debmalya017das" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debmalya017Das&" alt="Debmalya017Das" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debmalya017das&" alt="debmalya017das" /></p>
+
 <br/>  
   
 
